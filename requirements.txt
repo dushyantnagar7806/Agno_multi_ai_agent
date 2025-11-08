@@ -1,0 +1,6 @@
+agno==2.2.8
+reportlab==4.2.2
+python-docx==1.2.0
+aiofiles
+openai
+python-dotenv>=1.0.0
